@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.70d2b37f.chunk.css",
-    "main.js": "/static/js/main.39e7bedb.chunk.js",
-    "main.js.map": "/static/js/main.39e7bedb.chunk.js.map",
+    "main.css": "/static/css/main.ae6d4c42.chunk.css",
+    "main.js": "/static/js/main.652d8de2.chunk.js",
+    "main.js.map": "/static/js/main.652d8de2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5ce107e7.js",
     "runtime-main.js.map": "/static/js/runtime-main.5ce107e7.js.map",
-    "static/js/2.66fe2123.chunk.js": "/static/js/2.66fe2123.chunk.js",
-    "static/js/2.66fe2123.chunk.js.map": "/static/js/2.66fe2123.chunk.js.map",
+    "static/js/2.6de65104.chunk.js": "/static/js/2.6de65104.chunk.js",
+    "static/js/2.6de65104.chunk.js.map": "/static/js/2.6de65104.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d0ca1a57ba950e688158b46b4cc1cf90.js": "/precache-manifest.d0ca1a57ba950e688158b46b4cc1cf90.js",
+    "precache-manifest.cceef8edf60f7cc9037b765aa8490db7.js": "/precache-manifest.cceef8edf60f7cc9037b765aa8490db7.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.70d2b37f.chunk.css.map": "/static/css/main.70d2b37f.chunk.css.map",
-    "static/js/2.66fe2123.chunk.js.LICENSE.txt": "/static/js/2.66fe2123.chunk.js.LICENSE.txt",
+    "static/css/main.ae6d4c42.chunk.css.map": "/static/css/main.ae6d4c42.chunk.css.map",
+    "static/js/2.6de65104.chunk.js.LICENSE.txt": "/static/js/2.6de65104.chunk.js.LICENSE.txt",
     "static/media/5opka.png": "/static/media/5opka.26711115.png",
     "static/media/BeHealthy.png": "/static/media/BeHealthy.7aff2336.png",
     "static/media/BookingCar.png": "/static/media/BookingCar.bad7af6b.png",
@@ -37,7 +37,6 @@
     "static/media/fb.svg": "/static/media/fb.791fb0d2.svg",
     "static/media/google-play.svg": "/static/media/google-play.2c9b8705.svg",
     "static/media/inst.svg": "/static/media/inst.cd7ef97a.svg",
-    "static/media/map.png": "/static/media/map.defce700.png",
     "static/media/notebook.png": "/static/media/notebook.a4c4bdef.png",
     "static/media/ok.svg": "/static/media/ok.936938ca.svg",
     "static/media/sberlogo.svg": "/static/media/sberlogo.382c3d46.svg",
@@ -48,8 +47,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5ce107e7.js",
-    "static/js/2.66fe2123.chunk.js",
-    "static/css/main.70d2b37f.chunk.css",
-    "static/js/main.39e7bedb.chunk.js"
+    "static/js/2.6de65104.chunk.js",
+    "static/css/main.ae6d4c42.chunk.css",
+    "static/js/main.652d8de2.chunk.js"
   ]
 }
